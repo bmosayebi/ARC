@@ -1,0 +1,11 @@
+move a 1
+xor b b
+xor c c
+move d 14
+add a b
+store c a
+move a b
+load b c
+sub d 1
+jump 5
+halt

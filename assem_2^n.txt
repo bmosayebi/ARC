@@ -1,0 +1,7 @@
+move a 10
+move b 2
+sub a 1
+multi b 2
+sub a 1
+jump 4
+halt
